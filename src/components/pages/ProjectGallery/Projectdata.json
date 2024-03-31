@@ -37,6 +37,27 @@
         "image":"/image5.jpeg",
       "deployedLink": "https://lotusniro.github.io/RandomPassword-Generator/",
       "githubLink": "https://github.com/Lotusniro/RandomPassword-Generator"
+      },
+      {
+        "id": 6,
+        "title": "Global Glide",
+        "image":"/image6.jpeg",
+      "deployedLink": "https://lotusniro.github.io/Globalglide/",
+      "githubLink": "https://github.com/Lotusniro/Globalglide"
+      },
+      {
+        "id": 7,
+        "title": "Fit-peak",
+        "image":"/image7.jpeg",
+      "deployedLink": "https://glittery-salamander-1bd4e9.netlify.app/",
+      "githubLink": "https://github.com/Lotusniro/FitPeak"
+      },
+      {
+        "id": 8,
+        "title": "Memory-game",
+        "image":"/image8.jpeg",
+      "deployedLink": "https://subtle-belekoy-9d9f97.netlify.app/",
+      "githubLink": "https://github.com/Lotusniro/memory"
       }
    
   ]
